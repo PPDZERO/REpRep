@@ -6,7 +6,7 @@ class Page:
     def find_element(self, *locator):
         return self.driver.find_element(*locator)
 
-    def click(self,*locator):
+    def click(self, *locator):
         e = self.find_element(*locator)
         e.click()
 
@@ -19,4 +19,5 @@ class Page:
         e = self.find_element(*locator)
         e.is_displayed()
 
-
+    def wait(self):
+        we

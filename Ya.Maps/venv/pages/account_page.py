@@ -7,6 +7,7 @@ class PersonalAccount(Page):
     LOGIN_NEXT = (By.ID, 'ru.yandex.yandexmaps.debug:id/button_next')
     PASSWORD_EDIT = (By.ID, 'ru.yandex.yandexmaps.debug:id/edit_password')
     AVATAR_ACCOUNT = (By.ID, 'ru.yandex.yandexmaps.debug:id/avatar_image')
+    USERNAME_ACC = (By.ID, 'ru.yandex.yandexmaps.debug:id/username')
 
     def input_login(self, account_login:str):
         self.input(account_login, *self.LOGIN_EDIT)
@@ -28,3 +29,10 @@ class PersonalAccount(Page):
 
     def sign_in_displayed(self):
         self.is_displayed(*self.SIGN_IN_BUTTON)
+
+    def log_in_displayed(self):
+        self.is_displayed(*self.LOGIN_EDIT)
+
+    def verify_log_in(self, account_login: str):
+        result_text = self.find_element(*self.USERNAME_ACC).text
+        assert account_login in result_text, f'Логин {account_login} совпадает с отобразившимся {result_text}'
