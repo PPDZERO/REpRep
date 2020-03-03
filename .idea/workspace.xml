@@ -29,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -118,10 +119,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="573" y="283" key="CommitChangelistDialog2" timestamp="1583260300731">
+    <state x="573" y="283" key="CommitChangelistDialog2" timestamp="1583260346541">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="573" y="283" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1583260300731" />
+    <state x="573" y="283" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1583260346541" />
     <state width="1309" height="209" key="GridCell.Tab.0.bottom" timestamp="1581962727758">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -142,6 +143,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="460" y="346" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1581960293615" />
+    <state x="541" y="419" key="Vcs.Push.Dialog.v2" timestamp="1583260351959">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="541" y="419" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1583260351959" />
     <state x="758" y="603" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583260290128">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
