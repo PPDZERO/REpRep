@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5307505-d835-4880-a52d-a5066e4465f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Gherkin feature file" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvKXiZ4jOPyh1RUTkrNestvQlp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+      <recent name="$PROJECT_DIR$/venv/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Behave.unlogin_test.feature (1)">
+    <configuration name="unlogin_test.feature (1)" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/venv/features/tests/unlogin_test.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unlogin_test.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/unlogin_test.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unlogin_test.feature:Юзер не авторизован в личном кабинете (1)" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/venv/features/tests/unlogin_test.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Юзер не авторизован в личном кабинете" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unlogin_test.feature:Юзер не авторизован в личном кабинете" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/unlogin_test.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Юзер не авторизован в личном кабинете" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="account_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/pages/account_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.unlogin_test.feature (1)" />
+        <item itemvalue="Behave.unlogin_test.feature:Юзер не авторизован в личном кабинете (1)" />
+        <item itemvalue="Python.account_page" />
+        <item itemvalue="Behave.unlogin_test.feature:Юзер не авторизован в личном кабинете" />
+        <item itemvalue="Behave.unlogin_test.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5307505-d835-4880-a52d-a5066e4465f8" name="Default Changelist" comment="" />
+      <created>1581921169490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581921169490</updated>
+      <workItem from="1581921189221" duration="631000" />
+      <workItem from="1581926332056" duration="9345000" />
+      <workItem from="1581937818015" duration="5301000" />
+      <workItem from="1581944071854" duration="1474000" />
+      <workItem from="1581945950187" duration="99000" />
+      <workItem from="1581949185352" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="80" key="#Inspections" timestamp="1581938682644">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="250" y="80" key="#Inspections/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938682644" />
+    <state x="382" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581937849211">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="382" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581937849211" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1581945730253">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.716/1280.-377.1600.1177@0.23.1280.716" timestamp="1581927283768" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581930924095" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938531008" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581941964450" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.727/1280.-377.1600.1177@0.23.1280.727" timestamp="1581945730253" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1581944207083" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.728/1280.-377.1600.1177@0.23.1280.728" timestamp="1581945558393" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.729/1280.-377.1600.1177@0.23.1280.729" timestamp="1581945057888" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center" timestamp="1581945730252">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.716/1280.-377.1600.1177@0.23.1280.716" timestamp="1581927283765" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581930924093" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938531007" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581941964449" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.727/1280.-377.1600.1177@0.23.1280.727" timestamp="1581945730252" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1581944207080" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.728/1280.-377.1600.1177@0.23.1280.728" timestamp="1581945558390" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.729/1280.-377.1600.1177@0.23.1280.729" timestamp="1581945057886" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left" timestamp="1581945730252">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.716/1280.-377.1600.1177@0.23.1280.716" timestamp="1581927283763" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581930924093" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938531007" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581941964448" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.727/1280.-377.1600.1177@0.23.1280.727" timestamp="1581945730252" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1581944207079" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.728/1280.-377.1600.1177@0.23.1280.728" timestamp="1581945558390" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.729/1280.-377.1600.1177@0.23.1280.729" timestamp="1581945057885" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right" timestamp="1581945730253">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.716/1280.-377.1600.1177@0.23.1280.716" timestamp="1581927283767" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581930924094" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938531008" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581941964450" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.727/1280.-377.1600.1177@0.23.1280.727" timestamp="1581945730253" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1581944207082" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.728/1280.-377.1600.1177@0.23.1280.728" timestamp="1581945558391" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.729/1280.-377.1600.1177@0.23.1280.729" timestamp="1581945057887" />
+    <state width="1218" height="207" key="GridCell.Tab.1.bottom" timestamp="1581944043209">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="207" key="GridCell.Tab.1.bottom/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581939081407" />
+    <state width="1218" height="207" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1581944043209" />
+    <state width="1218" height="207" key="GridCell.Tab.1.center" timestamp="1581944043208">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="207" key="GridCell.Tab.1.center/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581939081406" />
+    <state width="1218" height="207" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1581944043208" />
+    <state width="1218" height="207" key="GridCell.Tab.1.left" timestamp="1581944043208">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="207" key="GridCell.Tab.1.left/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581939081405" />
+    <state width="1218" height="207" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1581944043208" />
+    <state width="1218" height="207" key="GridCell.Tab.1.right" timestamp="1581944043209">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1218" height="207" key="GridCell.Tab.1.right/0.23.1280.724/1280.-377.1600.1177@0.23.1280.724" timestamp="1581939081406" />
+    <state width="1218" height="207" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1581944043209" />
+    <state x="176" y="24" width="982" height="722" key="SettingsEditor" timestamp="1581944648834">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="149" y="23" width="982" height="714" key="SettingsEditor/0.23.1280.714/1280.-377.1600.1177@0.23.1280.714" timestamp="1581921504531" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581926370336" />
+    <state x="149" y="23" width="982" height="722" key="SettingsEditor/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581938881020" />
+    <state x="176" y="24" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1581944197430" />
+    <state x="176" y="24" key="SettingsEditor/0.23.1280.728/1280.-377.1600.1177@0.23.1280.728" timestamp="1581944648834" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1581926334576">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="296" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.714/1280.-377.1600.1177@0.23.1280.714" timestamp="1581921290019" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.721/1280.-377.1600.1177@0.23.1280.721" timestamp="1581926334576" />
+    <state x="0" y="23" width="824" height="723" key="find.popup" timestamp="1581937532826">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="0" y="23" width="824" height="723" key="find.popup/0.23.1280.723/1280.-377.1600.1177@0.23.1280.723" timestamp="1581937532826" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_steps.coverage" NAME="unlogin_steps Coverage Results" MODIFIED="1581938000516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/features/steps" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature______.coverage" NAME="unlogin_test.feature:Юзер не авторизован в личном кабинете Coverage Results" MODIFIED="1581940633265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature.coverage" NAME="unlogin_test.feature Coverage Results" MODIFIED="1581938305653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature__1_.coverage" NAME="unlogin_test.feature (1) Coverage Results" MODIFIED="1581945558370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature________1_.coverage" NAME="unlogin_test.feature:Юзер не авторизован в личном кабинете (1) Coverage Results" MODIFIED="1581945057861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_steps__1_.coverage" NAME="unlogin_steps (1) Coverage Results" MODIFIED="1581938192932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$account_page.coverage" NAME="account_page Coverage Results" MODIFIED="1581941964432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pages" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$TestTest.coverage" NAME="TestTest Coverage Results" MODIFIED="1581936405131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$test_feature.coverage" NAME="test.feature Coverage Results" MODIFIED="1581938052704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

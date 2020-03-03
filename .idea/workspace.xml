@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d0f5720-4a7d-4d1c-b37a-42a276bced5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xwa0JbuFhyN3K4i7EzrpDTSjyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Behave.unlogin_test.feature">
+    <configuration name="unlogin_test.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Ya.Maps/venv/features/tests/unlogin_test.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unlogin_test.feature:Юзер не авторизован в личном кабинете" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Ya.Maps/venv/features/tests/unlogin_test.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Юзер не авторизован в личном кабинете" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unlogin_test.feature:Юзер не авторизован в личном кабинете" type="PyLettuceRunConfigurationType" factoryName="Lettuce" temporary="true">
+      <module name="Ya.Maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Ya.Maps/venv/features/tests/unlogin_test.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="1" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.unlogin_test.feature" />
+        <item itemvalue="Behave.unlogin_test.feature:Юзер не авторизован в личном кабинете" />
+        <item itemvalue="Lettuce.unlogin_test.feature:Юзер не авторизован в личном кабинете" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d0f5720-4a7d-4d1c-b37a-42a276bced5f" name="Default Changelist" comment="" />
+      <created>1581959386964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581959386964</updated>
+      <workItem from="1581959391233" duration="2861000" />
+      <workItem from="1582052119726" duration="1758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1309" height="209" key="GridCell.Tab.0.bottom" timestamp="1581962727758">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1309" height="209" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1581962727758" />
+    <state width="1309" height="209" key="GridCell.Tab.0.center" timestamp="1581962727758">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1309" height="209" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1581962727758" />
+    <state width="1309" height="209" key="GridCell.Tab.0.left" timestamp="1581962727758">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1309" height="209" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1581962727758" />
+    <state width="1309" height="209" key="GridCell.Tab.0.right" timestamp="1581962727758">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1309" height="209" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1581962727758" />
+    <state x="460" y="346" key="SettingsEditor" timestamp="1581960293615">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="460" y="346" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1581960293615" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature.coverage" NAME="unlogin_test.feature Coverage Results" MODIFIED="1581961761633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Ya_Maps$unlogin_test_feature______.coverage" NAME="unlogin_test.feature:Юзер не авторизован в личном кабинете Coverage Results" MODIFIED="1581959460673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
